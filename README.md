@@ -13,6 +13,8 @@ CI/CD
 
 Terraform
 
+Terragrunt
+
 Python 
 
 Docker
