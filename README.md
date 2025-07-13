@@ -1,17 +1,37 @@
-TECH STACK:
 
-- Cloud Computing ☁
-- PHP 
-- LINUX
-- TERRAFORM
-- DevOps
-- JIRA
-- SQL
-- AWS
-- GIT
-- PYTHON
-- C++ 
-- HTML CSS
+
+
+AWS
+
+Cloud Computing
+
+DevOps
+
+Kubernetes
+
+CI/CD
+
+Terraform
+
+Python 
+
+Docker
+
+Linux
+
+Bash scripting
+
+Linux server
+
+Git
+
+C++
+
+PHP
+
+SQL
+
+HTML5 CSS
 
 <!---
 zalewski-dawid/zalewski-dawid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
